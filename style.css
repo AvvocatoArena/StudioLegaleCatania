@@ -83,7 +83,7 @@ nav {
   height: 200px;
   border-radius: 50%;
   object-fit: cover;
-  border: 3px solid #fff;
+  border: 3px solid #000000;
 }
 
 .hero-text {
@@ -165,4 +165,3 @@ nav {
     font-size: 14px;   /* testo più piccolo */
   }
 }
-
